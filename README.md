@@ -6,7 +6,7 @@
 
 ## Description
 
-This is a simple ~Number Guessing Game~ created in Python.  
+This is a simple **Number Guessing Game **created in Python.  
 The game allows players to guess a randomly generated number based on their chosen difficulty level.  
 It provides feedback such as "Too high", "Too low", and hints when the guess is close.  
 
